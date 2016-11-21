@@ -1,6 +1,6 @@
 {
 	"name": "valid-mac",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Test validity of MAC address.",
 	"main": "index.js",
 	"scripts": {
@@ -8,13 +8,13 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/frlorenzo/valid-mac.git"
+		"url": "https://github.com/cnkdynamics/valid-mac.git"
 	},
 	"keywords": [
 		"MAC",
 		"validation"
 	],
-	"author": "Felipe Lorenzo",
+	"author": "frlorenzo@cnkdynamics.com",
 	"license": "MIT",
 	"devDependencies": {
 		"expect.js": "^0.3.1",
